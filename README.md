@@ -48,30 +48,29 @@ Soy un **DevOps Engineer** y **Infrastructure Specialist** apasionado por la aut
 - **Pin2**: Automatización de infraestructura web en AWS con Terraform
 - - **pipeline-propio**: Pipeline de CI/CD personalizado
  
-  - ### 🐳 Containerización & Orquestación
-  - - **To-do-list-app**: Aplicación full-stack dockerizada (Back-Front-Data-End)
-    - - **BuildAutomation**: Automatización de procesos de construcción
+- ### 🐳 Containerización & Orquestación
+- - **To-do-list-app**: Aplicación full-stack dockerizada (Back-Front-Data-End)
+- - **BuildAutomation**: Automatización de procesos de construcción
      
-      - ### 🔄 CI/CD & Automation
-      - - **github-actions**: Implementaciones de GitHub Actions
-        - - **git-bootcamp**: Recursos educativos para Git
+- ### 🔄 CI/CD & Automation
+- - **github-actions**: Implementaciones de GitHub Actions
+- - **git-bootcamp**: Recursos educativos para Git
          
-          - ## 🌱 Actualmente aprendiendo
-         
-          - - Arquitecturas de microservicios avanzadas
-            - - Observabilidad y monitoreo distribuido
-              - - Prácticas de seguridad en DevOps (DevSecOps)
-                - - Optimización de costos en la nube
+- ## 🌱 Actualmente aprendiendo
+- - Arquitecturas de microservicios avanzadas
+- - Observabilidad y monitoreo distribuido
+- - Prácticas de seguridad en DevOps (DevSecOps)
+- - Optimización de costos en la nube
                  
-                  - ## 📊 Actividad
+- ## 📊 Actividad
                  
-                  - ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Codeodata&theme=react-dark&hide_border=true)
+- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Codeodata&theme=react-dark&hide_border=true)
                  
-                  - ## 🤝 Conecta conmigo
+- ## 🤝 Conecta conmigo
                  
-                  - ¿Interesado en colaborar en proyectos de DevOps o Infrastructure? ¡No dudes en contactarme!
+- ¿Interesado en colaborar en proyectos de DevOps o Infrastructure? ¡No dudes en contactarme!
                  
-                  - ---
+- ---
 
                   <div align="center">
                     <img src="https://komarev.com/ghpvc/?username=Codeodata&color=blueviolet&style=fl
