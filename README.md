@@ -1,87 +1,63 @@
-# ¡Hola! 👋 Soy Codeodata  
+# Hola, soy Agustín 👋
 
-## 🚀 Sobre mí  
-
-Soy un **DevOps Engineer** y **Cloud Infrastructure Specialist** con experiencia en **AWS, Kubernetes, Terraform y CI/CD**.  
-Me apasiona **automatizar despliegues, optimizar infraestructura y mejorar la eficiencia** de los flujos de desarrollo.  
-
-He implementado **pipelines de entrega continua**, entornos escalables en **AWS EKS**, y soluciones de **monitoreo avanzado** con Prometheus y Grafana.  
-Mi objetivo: **acelerar el time-to-market** y reducir errores humanos mediante infraestructura como código y prácticas DevSecOps.  
+**DevOps Engineer & Cloud Infrastructure Specialist**  
+Automatizo infraestructura, diseño pipelines CI/CD y construyo plataformas escalables en AWS.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas  
+## Stack principal
 
-### ☁️ Cloud & Infrastructure  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)  
+### Cloud & IaC
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔧 DevOps & Automation  
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)  
+### CI/CD & Automation
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 
-### 💻 Desarrollo  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
-
-### 📊 Monitoreo & Observabilidad  
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)  
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)  
+### Observabilidad
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 
 ---
 
-## 📈 Estadísticas de GitHub  
+## Proyectos destacados
+
+### 🏗️ [eks-platform-aws](https://github.com/Codeodata/eks-platform-aws)
+Plataforma EKS production-ready en AWS. Terraform para toda la infraestructura, GitHub Actions para CI/CD, Prometheus + Grafana para monitoreo.  
+`Terraform` `EKS` `GitHub Actions` `Prometheus` `Grafana`
+
+### 🤖 [cashbot](https://github.com/Codeodata/cashbot)
+Bot de Telegram desplegado en AWS Lambda. Pipeline completo: imagen Docker multi-arquitectura, push a ECR, deploy automatizado con Terraform.  
+`Python` `Docker` `AWS Lambda` `ECR` `Terraform`
+
+### 🔄 [Jenkins-Sonarqube-Docker](https://github.com/Codeodata/Jenkins-Sonarqube-Docker)
+Pipeline DevOps completo: Jenkins orquesta el build, SonarQube analiza calidad de código, Docker empaqueta y despliega.  
+`Jenkins` `SonarQube` `Docker`
+
+### 🐳 [To-do-list-app](https://github.com/Codeodata/To-do-list-app)
+Aplicación full-stack completamente dockerizada con Docker Compose — backend, frontend y base de datos como servicios independientes.  
+`Docker` `Docker Compose` `Node.js` `React` `MySQL`
+
+---
+
+## GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Codeodata&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeodata&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Codeodata&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>  
+</div>
 
 ---
-
-## 🎯 Proyectos Destacados  
-
-### 🏗️ Infrastructure as Code  
-- **Pin2** → Automatización completa de infraestructura web en AWS usando Terraform.  
-- **Pipeline Propio** → Pipeline CI/CD personalizado con control de calidad y despliegues automáticos.  
-
-### 🐳 Containerización & Orquestación  
-- **To-do-list-app** → Aplicación full-stack dockerizada (Backend + Frontend + Base de datos).  
-- **BuildAutomation** → Automatización de procesos de build y despliegue.  
-
-### 🔄 CI/CD & Automation  
-- **GitHub Actions Templates** → Flujos reutilizables para proyectos en la nube.  
-- **Git Bootcamp** → Recursos educativos y prácticas para dominar Git.  
-
----
-
-## 🌱 Actualmente aprendiendo  
-- Arquitecturas de microservicios avanzadas.  
-- Observabilidad y monitoreo distribuido.  
-- Prácticas de seguridad en DevOps (DevSecOps).  
-- Optimización de costos en la nube.  
-
----
-
-## 📊 Actividad  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Codeodata&theme=react-dark&hide_border=true)  
-
----
-
-## 🤝 Conecta conmigo  
-💬 ¿Interesado en colaborar en proyectos de DevOps o infraestructura? ¡Escríbeme!  
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Codeodata&color=blueviolet&style=flat" alt="Profile views" />
-</div>  
- 
-- ---
-
-                  <div align="center">
-                    <img src="https://komarev.com/ghpvc/?username=Codeodata&color=blueviolet&style=fl
+</div>
