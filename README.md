@@ -28,12 +28,20 @@ Automatizo infraestructura, diseño pipelines CI/CD y construyo plataformas esca
 ## Proyectos destacados
 
 ### 🏗️ [eks-platform-aws](https://github.com/Codeodata/eks-platform-aws)
-Plataforma EKS production-ready en AWS. Terraform para toda la infraestructura, GitHub Actions para CI/CD, Prometheus + Grafana para monitoreo.  
-`Terraform` `EKS` `GitHub Actions` `Prometheus` `Grafana`
+Plataforma EKS production-ready en AWS. Terraform modular para toda la infraestructura, GitHub Actions para CI/CD, Prometheus + Grafana para monitoreo.  
+`Terraform` `EKS` `GitHub Actions` `Prometheus` `Grafana` `Helm`
 
 ### 🤖 [cashbot](https://github.com/Codeodata/cashbot)
 Bot de Telegram desplegado en AWS Lambda. Pipeline completo: imagen Docker multi-arquitectura, push a ECR, deploy automatizado con Terraform.  
 `Python` `Docker` `AWS Lambda` `ECR` `Terraform`
+
+### 🧠 [n8n-local-ai-stack](https://github.com/Codeodata/n8n-local-ai-stack)
+Stack de automatización con IA self-hosted sobre Docker Compose. n8n + Ollama (LLMs locales) + Supabase + Qdrant + Flowise + Grafana + Langfuse.  
+`Docker Compose` `n8n` `Ollama` `Supabase` `Grafana` `Langfuse`
+
+### 📡 [telco-cloud-stack](https://github.com/Codeodata/telco-cloud-stack)
+Infraestructura VoIP containerizada. Kamailio como SIP proxy con balanceo a media servers, stack de observabilidad completo con Prometheus + Loki + Grafana.  
+`Docker Compose` `Kamailio` `Prometheus` `Loki` `Grafana`
 
 ### 🔄 [Jenkins-Sonarqube-Docker](https://github.com/Codeodata/Jenkins-Sonarqube-Docker)
 Pipeline DevOps completo: Jenkins orquesta el build, SonarQube analiza calidad de código, Docker empaqueta y despliega.  
@@ -57,6 +65,15 @@ Aplicación full-stack completamente dockerizada con Docker Compose — backend,
 </div>
 
 ---
+
+## Contacto
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Agustín%20Gonzales-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-gonzales-devops)
+[![Email](https://img.shields.io/badge/Email-ivanagustingonzalez%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivanagustingonzalez@gmail.com)
+
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Codeodata&color=blueviolet&style=flat" alt="Profile views" />
