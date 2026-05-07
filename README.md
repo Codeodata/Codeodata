@@ -3,7 +3,7 @@
 **DevOps Engineer & Cloud Infrastructure Specialist**  
 Automatizo infraestructura, diseño pipelines CI/CD y construyo plataformas escalables en AWS.
 
-> 🚀 Actualmente construyendo [**Galileo CRM**](https://github.com/Codeodata/galileo-crm) — SaaS para agencias y equipos de ventas, con roadmap hacia multi-tenancy en AWS EKS.
+> 🚀 Construyendo [**ConsultoraRRHH**](https://github.com/Codeodata/ConsultoraRRHH) — HR Tech SaaS multi-tenant con ATS + IA, diseñado para escalar en AWS EKS.
 
 ---
 
@@ -29,21 +29,21 @@ Automatizo infraestructura, diseño pipelines CI/CD y construyo plataformas esca
 
 ## Proyectos destacados
 
-### 🚀 [galileo-crm](https://github.com/Codeodata/galileo-crm)
-**SaaS en construcción.** CRM estilo GoHighLevel para agencias y equipos de ventas — pipeline kanban, automatizaciones, calendario multi-usuario. Roadmap: backend propio, multi-tenancy, deploy en EKS con Terraform.  
-`React` `TypeScript` `Docker` `GitHub Actions` `AWS EKS (próximo)`
+### 🏢 [ConsultoraRRHH](https://github.com/Codeodata/ConsultoraRRHH)
+**SaaS principal en construcción.** HR Tech multi-tenant para consultoras: gestión de servicios, legajo digital de empleados y portal de clientes. Roadmap activo hacia ATS con screening de CVs por IA y automatización de workflows vía n8n. Deploy target: AWS EKS.  
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Docker` `Multi-tenant` `ATS` `AI`
 
 ### 🏗️ [eks-platform-aws](https://github.com/Codeodata/eks-platform-aws)
 La infraestructura para escalar el SaaS. EKS production-ready en AWS con Terraform modular, GitHub Actions CI/CD, Prometheus + Grafana para monitoreo.  
 `Terraform` `EKS` `GitHub Actions` `Prometheus` `Grafana` `Helm`
 
+### 🧠 [n8n-local-ai-stack](https://github.com/Codeodata/n8n-local-ai-stack)
+Stack de automatización con IA self-hosted sobre Docker Compose. n8n + Ollama + Supabase + Qdrant + Flowise + Grafana + Langfuse. Base del motor de automatizaciones de ConsultoraRRHH.  
+`Docker Compose` `n8n` `Ollama` `Supabase` `Grafana` `Langfuse`
+
 ### 🤖 [cashbot](https://github.com/Codeodata/cashbot)
 Bot de Telegram desplegado en AWS Lambda. Pipeline completo: imagen Docker multi-arquitectura, push a ECR, deploy automatizado con Terraform.  
 `Python` `Docker` `AWS Lambda` `ECR` `Terraform`
-
-### 🧠 [n8n-local-ai-stack](https://github.com/Codeodata/n8n-local-ai-stack)
-Stack de automatización con IA self-hosted sobre Docker Compose. n8n + Ollama + Supabase + Qdrant + Flowise + Grafana + Langfuse.  
-`Docker Compose` `n8n` `Ollama` `Supabase` `Grafana` `Langfuse`
 
 ### 📡 [telco-cloud-stack](https://github.com/Codeodata/telco-cloud-stack)
 Infraestructura VoIP containerizada. Kamailio como SIP proxy, stack de observabilidad completo con Prometheus + Loki + Grafana.  
