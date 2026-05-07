@@ -3,6 +3,8 @@
 **DevOps Engineer & Cloud Infrastructure Specialist**  
 Automatizo infraestructura, diseño pipelines CI/CD y construyo plataformas escalables en AWS.
 
+> 🚀 Actualmente construyendo [**Galileo CRM**](https://github.com/Codeodata/galileo-crm) — SaaS para agencias y equipos de ventas, con roadmap hacia multi-tenancy en AWS EKS.
+
 ---
 
 ## Stack principal
@@ -27,8 +29,12 @@ Automatizo infraestructura, diseño pipelines CI/CD y construyo plataformas esca
 
 ## Proyectos destacados
 
+### 🚀 [galileo-crm](https://github.com/Codeodata/galileo-crm)
+**SaaS en construcción.** CRM estilo GoHighLevel para agencias y equipos de ventas — pipeline kanban, automatizaciones, calendario multi-usuario. Roadmap: backend propio, multi-tenancy, deploy en EKS con Terraform.  
+`React` `TypeScript` `Docker` `GitHub Actions` `AWS EKS (próximo)`
+
 ### 🏗️ [eks-platform-aws](https://github.com/Codeodata/eks-platform-aws)
-Plataforma EKS production-ready en AWS. Terraform modular para toda la infraestructura, GitHub Actions para CI/CD, Prometheus + Grafana para monitoreo.  
+La infraestructura para escalar el SaaS. EKS production-ready en AWS con Terraform modular, GitHub Actions CI/CD, Prometheus + Grafana para monitoreo.  
 `Terraform` `EKS` `GitHub Actions` `Prometheus` `Grafana` `Helm`
 
 ### 🤖 [cashbot](https://github.com/Codeodata/cashbot)
@@ -36,20 +42,16 @@ Bot de Telegram desplegado en AWS Lambda. Pipeline completo: imagen Docker multi
 `Python` `Docker` `AWS Lambda` `ECR` `Terraform`
 
 ### 🧠 [n8n-local-ai-stack](https://github.com/Codeodata/n8n-local-ai-stack)
-Stack de automatización con IA self-hosted sobre Docker Compose. n8n + Ollama (LLMs locales) + Supabase + Qdrant + Flowise + Grafana + Langfuse.  
+Stack de automatización con IA self-hosted sobre Docker Compose. n8n + Ollama + Supabase + Qdrant + Flowise + Grafana + Langfuse.  
 `Docker Compose` `n8n` `Ollama` `Supabase` `Grafana` `Langfuse`
 
 ### 📡 [telco-cloud-stack](https://github.com/Codeodata/telco-cloud-stack)
-Infraestructura VoIP containerizada. Kamailio como SIP proxy con balanceo a media servers, stack de observabilidad completo con Prometheus + Loki + Grafana.  
+Infraestructura VoIP containerizada. Kamailio como SIP proxy, stack de observabilidad completo con Prometheus + Loki + Grafana.  
 `Docker Compose` `Kamailio` `Prometheus` `Loki` `Grafana`
 
 ### 🔄 [Jenkins-Sonarqube-Docker](https://github.com/Codeodata/Jenkins-Sonarqube-Docker)
 Pipeline DevOps completo: Jenkins orquesta el build, SonarQube analiza calidad de código, Docker empaqueta y despliega.  
 `Jenkins` `SonarQube` `Docker`
-
-### 🐳 [To-do-list-app](https://github.com/Codeodata/To-do-list-app)
-Aplicación full-stack completamente dockerizada con Docker Compose — backend, frontend y base de datos como servicios independientes.  
-`Docker` `Docker Compose` `Node.js` `React` `MySQL`
 
 ---
 
